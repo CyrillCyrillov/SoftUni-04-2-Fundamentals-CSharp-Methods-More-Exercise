@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Data_Types.exe
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Data_Types.deps.json
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Data_Types.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Data_Types.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Data_Types.dll
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Data_Types.pdb
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.dll
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.pdb
+C:\Users\Kiril\source\repos\04_Exercise_More\04_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Data_Types.genruntimeconfig.cache
