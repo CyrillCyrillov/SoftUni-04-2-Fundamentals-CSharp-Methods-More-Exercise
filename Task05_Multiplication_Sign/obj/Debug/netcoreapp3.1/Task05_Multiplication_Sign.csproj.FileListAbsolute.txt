@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\bin\Debug\netcoreapp3.1\Task05_Multiplication_Sign.exe
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\bin\Debug\netcoreapp3.1\Task05_Multiplication_Sign.deps.json
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\bin\Debug\netcoreapp3.1\Task05_Multiplication_Sign.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\bin\Debug\netcoreapp3.1\Task05_Multiplication_Sign.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\bin\Debug\netcoreapp3.1\Task05_Multiplication_Sign.dll
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\bin\Debug\netcoreapp3.1\Task05_Multiplication_Sign.pdb
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.dll
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.pdb
+C:\Users\Kiril\source\repos\04_Exercise_More\Task05_Multiplication_Sign\obj\Debug\netcoreapp3.1\Task05_Multiplication_Sign.genruntimeconfig.cache
