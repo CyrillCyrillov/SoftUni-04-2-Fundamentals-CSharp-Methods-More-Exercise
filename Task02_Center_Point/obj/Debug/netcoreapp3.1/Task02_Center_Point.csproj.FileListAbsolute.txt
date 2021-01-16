@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\bin\Debug\netcoreapp3.1\Task02_Center_Point.exe
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\bin\Debug\netcoreapp3.1\Task02_Center_Point.deps.json
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\bin\Debug\netcoreapp3.1\Task02_Center_Point.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\bin\Debug\netcoreapp3.1\Task02_Center_Point.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\bin\Debug\netcoreapp3.1\Task02_Center_Point.dll
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\bin\Debug\netcoreapp3.1\Task02_Center_Point.pdb
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.dll
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.pdb
+C:\Users\Kiril\source\repos\04_Exercise_More\Task02_Center_Point\obj\Debug\netcoreapp3.1\Task02_Center_Point.genruntimeconfig.cache
